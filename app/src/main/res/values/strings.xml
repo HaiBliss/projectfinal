@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tìm nhà trọ</string>
+<!--    <string name="maps_api_key">AIzaSyC_LFi6AA6EoI7Z6pcLCXXulSzKrxPK7zA</string>-->
+    <string name="maps_api_key">AIzaSyDwvkPfP7esFc_ERuiS_d2e8jgFuRwA4NM</string>
+    <string name="search_map_km_unit">km</string>
+    <string name="search_map_0.5km">0.5</string>
+    <string name="search_map_3km">1</string>
+    <string name="search_map_5km">2</string>
+    <string name="search_map_10km">3</string>
+    <string name="search_map_30km">10</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sign_up"><u>ĐĂNG KÝ TÀI KHOẢN</u></string>
+    <string name="very_long_lorem_ipsum">abc</string>
+    <string name="text_note"><u>Ghi chú:</u></string>
+    <string name="change_password"><u>Đổi mật khẩu</u></string>
+    <string name="error_gif">Lỗi lấy ảnh</string>
+    <string name="error_system_upgrading">Hệ thống đang nâng cấp. Vui lòng quay lại sau!</string>
+    <string name="error_fail_default">Hệ thống đang bận. Vui lòng thử lại sau!</string>
+    <string name="msg_network_not_available">Mất kết nối internet. Vui lòng kiểm tra lại wifi hoặc dữ liệu di động!</string>
+    <string name="login_success">Đăng nhập thành công!</string>
+    <string name="login_error">Đăng nhập không thành công. Vui lòng thử lại sau!</string>
+    <string name="register_success">Đăng ký thành công!</string>
+    <string name="register_error">Đăng ký không thành công. Vui lòng thử lại sau!</string>
+    <string name="message_email_error">Địa chỉ email không chính xác.</string>
+    <string name="string_source_internet">Nguồn thông tin này được tổng hợp từ internet. Mẫu tin này được đăng tại trang: %s</string>
+    <string name="button_original">Chất lượng cao</string>
+    <string name="button_preview">Xem trước</string>
+    <string name="button_sure">Đồng ý(%1$d)</string>
+    <string name="button_sure_default">Đồng ý</string>
+    <string name="button_apply">Áp dụng(%1$d)</string>
+    <string name="button_apply_default">Áp dụng</string>
+    <string name="button_back">Trở lại</string>
+    <string name="button_ok">Đồng ý</string>
+    <string name="album_name_all">Toàn bộ ảnh</string>
+    <string name="photo_grid_capture">Camera</string>
+    <string name="empty_text">Không có dữ liệu</string>
+    <string name="error_over_count_default">Bạn đã chọn tối đa ảnh</string>
+    <string name="error_over_count">Bạn chỉ có thể chọn tối đa %1$d ảnh</string>
+    <string name="error_under_quality">Chất lượng kém</string>
+    <string name="error_over_quality">Chất lượng tối ưu</string>
+    <string name="error_file_type">Không hỗ trợ loại tệp này</string>
+    <string name="error_type_conflict">Bạn không thể chọn video và ảnh cùng một lúc</string>
+    <string name="error_no_video_activity">Không hỗ trợ xem trước videos</string>
+    <string name="error_over_original_size">Không thể chọn ảnh quá %1$d MB</string>
+    <string name="error_over_original_count">%1$d ảnh quá %2$d MB. Chất lượng tốt sẽ tự động bỏ chọn</string>
+    <string name="link_static_map"><![CDATA[https://maps.googleapis.com/maps/api/staticmap?zoom=16.5&size=600x500&maptype=roadmap&markers=color:red%%7C%s,%s&key=%s]]></string>
+    <string name="find_password"><u>Lấy lại mật khẩu</u></string>
+    <string name="string_error">Hệ thống đang bận\nXin vui lòng thử lại!</string>
+    <string name="GPS_title_dialog">Cài đặt định vị</string>
+    <string name="GPS_message_dialog">GPS không được bật. Vui lòng bật GPS để sử dụng chức năng này!</string>
+</resources>

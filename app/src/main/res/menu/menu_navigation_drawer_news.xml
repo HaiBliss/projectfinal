@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_map"
+            android:title="Bản đồ" />
+        <item
+            android:id="@+id/nav_tin_da_luu"
+            android:icon="@drawable/icon_saved"
+            android:title="Tin đã lưu" />
+        <item
+            android:id="@+id/nav_tin_da_dang"
+            android:icon="@drawable/icon_post"
+            android:title="Tin đăng của tôi" />
+        <item
+            android:id="@+id/nav_dang_ky_theo_doi"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="Đăng ký theo dõi" />
+    </group>
+    <group
+        android:id="@+id/grp_2"
+        android:checkableBehavior="none"
+        >
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/icon_share"
+            android:title="Chia sẻ ứng dụng" />
+        <item
+            android:id="@+id/nav_danh_gia_gop_y"
+            android:icon="@drawable/ic_danh_gia_gop_y"
+            android:title="Đánh giá - góp ý" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="Trợ giúp" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_iconfinder_sign_out_1608410"
+            android:title="Đăng xuất" />
+    </group>
+
+</menu>

@@ -1,0 +1,338 @@
+{
+  "data": [
+    {
+      "name_city": "Tp Hồ Chí Minh",
+      "list_province": [
+        {
+          "name_province": "Quận 1",
+          "lat": "10.776530",
+          "long": "106.700981",
+          "code": "ho-chi-minh-quan-1"
+        },
+        {
+          "name_province": "Quận 2",
+          "lat": "10.782954",
+          "long": "106.7582261",
+          "code": "ho-chi-minh-quan-2"
+        },
+        {
+          "name_province": "Quận 3",
+          "lat": "10.7845055",
+          "long": "106.6833969",
+          "code": "ho-chi-minh-quan-3"
+        },
+        {
+          "name_province": "Quận 4",
+          "lat": "10.7569234",
+          "long": "106.7054996",
+          "code": "ho-chi-minh-quan-4"
+        },
+        {
+          "name_province": "Quận 5",
+          "lat": "10.7568929",
+          "long": "106.6685923",
+          "code": "ho-chi-minh-quan-5"
+        },
+        {
+          "name_province": "Quận 6",
+          "lat": "10.7477265",
+          "long": "106.6336846",
+          "code": "ho-chi-minh-quan-6"
+        },
+        {
+          "name_province": "Quận 7",
+          "lat": "10.7382152",
+          "long": "106.7274228",
+          "code": "ho-chi-minh-quan-7"
+        },
+        {
+          "name_province": "Quận 8",
+          "lat": "10.7432604",
+          "long": "106.6676294",
+          "code": "ho-chi-minh-quan-8"
+        },
+        {
+          "name_province": "Quận 9",
+          "lat": "10.8242073",
+          "long": "106.8065958",
+          "code": "ho-chi-minh-quan-9"
+        },
+        {
+          "name_province": "Quận 10",
+          "lat": "10.7679125",
+          "long": "106.6659027",
+          "code": "ho-chi-minh-quan-10"
+        },
+        {
+          "name_province": "Quận 11",
+          "lat": "10.7654089",
+          "long": "106.6456268",
+          "code": "ho-chi-minh-quan-11"
+        },
+        {
+          "name_province": "Quận 12",
+          "lat": "10.8788495",
+          "long": "106.6708169",
+          "code": "ho-chi-minh-quan-12"
+        },
+        {
+          "name_province": "Quận Bình Tân",
+          "lat": "10.7652206",
+          "long": "106.5999295",
+          "code": "ho-chi-minh-quan-binh-tan"
+        },
+        {
+          "name_province": "Quận Bình Thạnh",
+          "lat": "10.8018489",
+          "long": "106.7095221",
+          "code": "ho-chi-minh-quan-binh-thanh"
+        },
+        {
+          "name_province": "Quận Gò Vấp",
+          "lat": "10.8388815",
+          "long": "106.6634964",
+          "code": "ho-chi-minh-quan-go-vap"
+        },
+        {
+          "name_province": "Quận Phú Nhuận",
+          "lat": "10.799445",
+          "long": "106.678696",
+          "code": "ho-chi-minh-quan-phu-nhuan"
+        },
+        {
+          "name_province": "Quận Tân Bình",
+          "lat": "10.8011056",
+          "long": "106.6551864",
+          "code": "ho-chi-minh-quan-tan-binh"
+        },
+        {
+          "name_province": "Quận Tân Phú",
+          "lat": "10.7891714",
+          "long": "106.6226908",
+          "code": "ho-chi-minh-quan-tan-phu"
+        },
+        {
+          "name_province": "Quận Thủ Đức",
+          "lat": "10.8521662",
+          "long": "106.7520231",
+          "code": "ho-chi-minh-quan-thu-duc"
+        },
+        {
+          "name_province": "Huyện Bình Chánh",
+          "lat": "10.7700717",
+          "long": "106.5191937",
+          "code": "ho-chi-minh-huyen-binh-chanh"
+        },
+        {
+          "name_province": "Huyện Cần Giờ",
+          "lat": "10.5014372",
+          "long": "106.8522049",
+          "code": "ho-chi-minh-huyen-can-gio"
+        },
+        {
+          "name_province": "Huyện Củ Chi",
+          "lat": "11.0176536",
+          "long": "106.4737515",
+          "code": "ho-chi-minh-huyen-cu-chi"
+        },
+        {
+          "name_province": "Huyện Hóc Môn",
+          "lat": "10.8867482",
+          "long": "106.5903841",
+          "code": "ho-chi-minh-huyen-hoc-mon"
+        },
+        {
+          "name_province": "Huyện Nhà Bè",
+          "lat": "10.6971845",
+          "long": "106.7005031",
+          "code": "ho-chi-minh-huyen-nha-be"
+        }
+      ]
+    },
+    {
+      "name_city": "Hà Nội",
+      "list_province": [
+        {
+          "name_province": "Quận Ba Đình",
+          "lat": "21.0354104",
+          "long": "105.8278926",
+          "code": "ha-noi-quan-ba-dinh"
+        },
+        {
+          "name_province": "Quận Bắc Từ Liêm",
+          "lat": "21.0668819",
+          "long": "105.7600129",
+          "code": "ha-noi-quan-bac-tu-liem"
+        },
+        {
+          "name_province": "Quận Cầu Giấy",
+          "lat": "21.0318899",
+          "long": "105.7855588",
+          "code": "ha-noi-quan-cau-giay"
+        },
+        {
+          "name_province": "Quận Đống Đa",
+          "lat": "21.0119916",
+          "long": "105.8269676",
+          "code": "ha-noi-quan-dong-da"
+        },
+        {
+          "name_province": "Quận Hà Đông",
+          "lat": "20.960521",
+          "long": "105.7591784",
+          "code": "ha-noi-quan-ha-dong"
+        },
+        {
+          "name_province": "Quận Hai Bà Trưng",
+          "lat": "21.0051514",
+          "long": "105.8530858",
+          "code": "ha-noi-quan-hai-ba-trung"
+        },
+        {
+          "name_province": "Quận Hoàn Kiếm",
+          "lat": "21.0289009",
+          "long": "105.851748",
+          "code": "ha-noi-quan-hoan-kiem"
+        },
+        {
+          "name_province": "Quận Hoàng Mai",
+          "lat": "20.9766481",
+          "long": "105.8489674",
+          "code": "ha-noi-quan-hoang-mai"
+        },
+        {
+          "name_province": "Quận Long Biên",
+          "lat": "21.0331848",
+          "long": "105.8978353",
+          "code": "ha-noi-quan-long-bien"
+        },
+        {
+          "name_province": "Quận Nam Từ Liêm",
+          "lat": "21.0196181",
+          "long": "105.726572",
+          "code": "ha-noi-quan-nam-tu-lien"
+        },
+        {
+          "name_province": "Quận Tây Hồ",
+          "lat": "21.056624",
+          "long": "105.8194491",
+          "code": "ha-noi-quan-tay-ho"
+        },
+        {
+          "name_province": "Quận Thanh Xuân",
+          "lat": "20.9950328",
+          "long": "105.8083816",
+          "code": "ha-noi-quan-thanh-xuan"
+        },
+        {
+          "name_province": "Huyện Ba Vì",
+          "lat": "20.8870147",
+          "long": "105.6486622",
+          "code": "ha-noi-huyen-ba-vi"
+        },
+        {
+          "name_province": "Huyện Chương Mỹ",
+          "lat": "20.8617418",
+          "long": "105.6545195",
+          "code": "ha-noi-huyen-chuong-my"
+        },
+        {
+          "name_province": "Huyện Đan Phượng",
+          "lat": "21.0847096",
+          "long": "105.6689664",
+          "code": "ha-noi-huyen-dan-phuong"
+        },
+        {
+          "name_province": "Huyện Đông Anh",
+          "lat": "21.1266696",
+          "long": "105.8142466",
+          "code": "ha-noi-huyen-dong-anh"
+        },
+        {
+          "name_province": "Huyện Gia Lâm",
+          "lat": "21.010517",
+          "long": "105.9356208",
+          "code": "ha-noi-huyen-gia-lam"
+        },
+        {
+          "name_province": "Huyện Hoài Đức",
+          "lat": "21.0463725",
+          "long": "105.6942141",
+          "code": "ha-noi-huyen-hoai-duc"
+        },
+        {
+          "name_province": "Huyện Mê Linh",
+          "lat": "21.1881887",
+          "long": "105.7678549",
+          "code": "ha-noi-huyen-me-linh"
+        },
+        {
+          "name_province": "Huyện Mỹ Đức",
+          "lat": "20.6675067",
+          "long": "105.7031195",
+          "code": "ha-noi-huyen-my-duc"
+        },
+        {
+          "name_province": "Huyện Phú Xuyên",
+          "lat": "20.7288507",
+          "long": "105.9125178",
+          "code": "ha-noi-huyen-phu-xuyen"
+        },
+        {
+          "name_province": "Huyện Phúc Thọ",
+          "lat": "21.1115082",
+          "long": "105.5336312",
+          "code": "ha-noi-huyen-phuc-tho"
+        },
+        {
+          "name_province": "Huyện Quốc Oai",
+          "lat": "20.9790318",
+          "long": "105.6182216",
+          "code": "ha-noi-huyen-quoc-oai"
+        },
+        {
+          "name_province": "Huyện Sóc Sơn",
+          "lat": "21.2324932",
+          "long": "105.7989061",
+          "code": "ha-noi-huyen-soc-son"
+        },
+        {
+          "name_province": "Huyện Thạch Thất",
+          "lat": "21.0081201",
+          "long": "105.5295173",
+          "code": "ha-noi-huyen-thach-that"
+        },
+        {
+          "name_province": "Huyện Thanh Oai",
+          "lat": "20.8528837",
+          "long": "105.7731263",
+          "code": "ha-noi-huyen-thanh-oai"
+        },
+        {
+          "name_province": "Huyện Thanh Trì",
+          "lat": "20.936944",
+          "long": "105.8299224",
+          "code": "ha-noi-huyen-thanh-tri"
+        },
+        {
+          "name_province": "Huyện Thường Tín",
+          "lat": "20.8395794",
+          "long": "105.8688978",
+          "code": "ha-noi-huyen-thuong-tin"
+        },
+        {
+          "name_province": "Huyện Ứng Hòa",
+          "lat": "20.7295975",
+          "long": "105.7730323",
+          "code": "ha-noi-huyen-ung-hoa"
+        },
+        {
+          "name_province": "Thị xã Sơn Tây",
+          "lat": "21.076948",
+          "long": "105.496711",
+          "code": "ha-noi-thi-xa-son-tay"
+        }
+      ]
+    }
+  ]
+}

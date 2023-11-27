@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:focusable="true"
+              android:focusableInTouchMode="true"
+              android:orientation="vertical"
+              android:paddingLeft="2dp"
+              android:paddingRight="2dp">
+
+  <ImageView
+    android:id="@+id/img_arrow"
+    android:layout_width="15dp"
+    android:layout_height="15dp"
+    android:layout_marginLeft="15dp"
+    android:src="@drawable/nav_up"/>
+
+  <TextView
+    android:id="@+id/tv_tool_tip"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tooltip_bg"
+    android:gravity="left"
+    android:padding="10dp"
+    android:text="Click here"
+    android:textColor="@android:color/white"
+    android:textSize="14sp"/>
+
+  <ImageView
+    android:id="@+id/img_arrow_down"
+    android:layout_width="15dp"
+    android:layout_height="15dp"
+    android:rotation="180"
+    android:src="@drawable/nav_up"
+    android:visibility="visible"/>
+</LinearLayout>
